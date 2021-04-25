@@ -1,0 +1,18 @@
+ab7a95e HEAD@{0}: Branch: renamed refs/heads/master to refs/heads/main
+ab7a95e HEAD@{2}: merge develop: Fast-forward
+522595d HEAD@{3}: checkout: moving from develop to master
+ab7a95e HEAD@{4}: checkout: moving from develop to develop
+ab7a95e HEAD@{5}: checkout: moving from images to develop
+ab7a95e HEAD@{6}: checkout: moving from develop to images
+ab7a95e HEAD@{7}: merge images: Fast-forward
+9c078ca HEAD@{8}: checkout: moving from styles to develop
+6a109d7 HEAD@{9}: commit: 6 commit
+dca5087 HEAD@{10}: commit: 5 commit
+9c078ca HEAD@{11}: checkout: moving from develop to styles
+9c078ca HEAD@{12}: checkout: moving from images to develop
+ab7a95e HEAD@{13}: commit: 4 commit
+9bad96d HEAD@{14}: commit: third commit
+9c078ca HEAD@{15}: checkout: moving from develop to images
+9c078ca HEAD@{16}: commit: second commit
+522595d HEAD@{17}: checkout: moving from master to develop
+522595d HEAD@{18}: commit (initial): first commit
